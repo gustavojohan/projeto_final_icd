@@ -7,14 +7,13 @@ Projeto final da disciplina de Introdução a Ciência de Dados ministrado pelo 
 - [Dicionário dos Dados](#dicionário-dos-dados)
 - [Hipóteses](#hipóteses)
 - [Conclusão](#conclusão)
-- [Próximos Passos](#próximos-passos)
 - [Referências](#referências)
 
 ## Integrantes
 Matrícula | Nome
 --- | ---
 20220167322 | Gustavo Johan Vieira Vasconcelos
-20220071240 | Jõao Pedro Serpa de Souza Batista
+20220071240 | João Pedro Serpa de Souza Batista
 
 # Dicionário dos Dados
 ##### DATASET - IMÓVEIS SÃO PAULO
